@@ -1,2 +1,2 @@
-# pruple
+# purple
 Blog template for free
